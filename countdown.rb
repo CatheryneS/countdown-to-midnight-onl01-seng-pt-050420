@@ -6,5 +6,7 @@ def countdown(n)
   end
   
   puts "HAPPY NEW YEAR!"
+  
+  "HAPPY NEW YEAR!"
 
 end
